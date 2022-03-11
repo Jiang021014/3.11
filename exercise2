@@ -1,0 +1,28 @@
+<!DOCTYPE html>
+<html lang ="eng">
+<head>
+  <meta charset="utf-8">
+  <title>My Web Page</title>
+</head>
+<body style="background-color:lavender;">
+  <h1 style="background-color:lightskyblue;">My first website.<h1>
+  <h2>I hope you like it here.</h2>
+  <h3>I hope you like it here.</h3>
+  <h4>I hope you like it here.</h4>
+  <h5>I hope you like it here.</h5>
+  <h6>I hope you like it here.</h6>
+  <p style="color:red;">This is my paragraph.</p><br>
+  <p>This is another paragraph.</p>
+  <b>Bold text</b>
+  <i>Italic text</i>
+  <u>Underlined text</u>
+  <em>Emphasized text</em>
+  <strong>Strong text</strong>
+  <sub>Sunscript text</sub>
+  <sup>Superscript text</sup>
+  <img src="https://jiwei.cuc.edu.cn/_upload/article/images/6a/af/372d1b214bceb8d06c701a25c1d3/f81b731f-26eb-46d2-9a46-466cd5d36e55.png">
+  <a href="https://www.cuc.edu.cn/" target=:"_blank">Click to CUC website.</a>
+  <img src="sunset.png" style="width:200px;height:200px;">
+  <img src="e:\meigong\rongtu\aaa.png" style="wdth:300px;height:200px;">
+</body>
+</html>
